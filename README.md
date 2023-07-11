@@ -1,5 +1,5 @@
 # DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities
-This repository contains the code, data, and models of the paper titled "DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities" published in [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior) (Q1, H-Index: 226, Impact Factor: ~9). 
+This repository contains the code, data, and models of the paper titled "DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities" published in the journal of [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior) (Q1, H-Index: 226, Impact Factor: ~10). 
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2305.06595-b31b1b.svg)](https://arxiv.org/abs/2210.05372)
