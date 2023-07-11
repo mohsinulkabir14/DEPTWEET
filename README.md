@@ -1,7 +1,15 @@
 # DEPTWEET
-GitHub repository for the DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities. Published in [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior).
+This repository contains the code, data, and models of the paper titled "DEPTWEET: A Typology for Social Media Texts to Detect Depression Severities" published in [Computers in Human Behavior](https://www.journals.elsevier.com/computers-in-human-behavior) (Q1, H-Index: 226, Impact Factor: ~9). 
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-2305.06595-b31b1b.svg)](https://arxiv.org/abs/2305.06595)
+[![GoogleScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google+Scholar&logoColor=white&color=gray&labelColor=4285F4)](https://tinyurl.com/3spp4bha)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=gray&labelColor=00CCBB)](https://www.https://www.researchgate.net/publication/363944652_DEPTWEET_A_typology_for_social_media_texts_to_detect_depression_severities)
+
+
 # Data
-Data folder contains tweet id's corresponding to severities of depression collected from Twitter. Owing to Twitter's policy we are restricted to sharing tweet-id's and users can rehydrate this dataset using <a href=https://github.com/DocNow/hydrator>hydrator</a>. In case of missing tweets or difficulties in extracting tweets, readers may send an email to the corresponding author (mohsinulkabir@iut-dhaka.edu).
+Data folder contains tweet id's corresponding to severities of depression collected from Twitter. Owing to Twitter's policy on data sharing, we can not directly upload the dataset and are only restricted to sharing tweet-id's here. Users can rehydrate this dataset using <a href=https://github.com/DocNow/hydrator>hydrator</a> using the tweet-id's.  <br/>
+In case of missing tweets or difficulties in extracting tweets, readers may fill up and sign the scanned copy of the Data Usage Agreement (DUA) available in this [link](https://drive.google.com/file/d/1hXmr680rKtftDNcdj26dkEnLNB8A0bWa/view?usp=sharing) and send to (mohsinulkabir@iut-dhaka.edu). Authors are committed to sharing the dataset in the shortest possible time once they receive the signed DUA. 
 # Code
 Code for obtaining the baseline result is available in this <a href= https://github.com/tasnim7ahmed/Depression-In-Tweets>repo</a>.
 # Citation
