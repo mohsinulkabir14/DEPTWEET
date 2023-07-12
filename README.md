@@ -8,20 +8,20 @@ This repository contains the code, data, and models of the paper titled "DEPTWEE
 
 
 # Data
-Data folder contains tweet id's corresponding to severities of depression collected from Twitter. Owing to Twitter's policy on data sharing, we can not directly upload the dataset and are only restricted to sharing tweet-id's here. Users can rehydrate this dataset using <a href=https://github.com/DocNow/hydrator>hydrator</a> using the tweet-id's.  <br/>
+The data folder contains tweet IDs corresponding to severities of depression collected from Twitter. Owing to Twitter's policy on data sharing, we can not directly upload the dataset and are only restricted to sharing tweet-id's here. Users can rehydrate this dataset using <a href=https://github.com/DocNow/hydrator>hydrator</a> using the tweet-id's.  <br/>
 In case of missing tweets or difficulties in extracting tweets, readers may fill up and sign the scanned copy of the Data Usage Agreement (DUA) available in this [link](https://drive.google.com/file/d/1hXmr680rKtftDNcdj26dkEnLNB8A0bWa/view?usp=sharing) and send to (mohsinulkabir@iut-dhaka.edu). Authors are committed to sharing the dataset in the shortest possible time once they receive the signed DUA. 
 # Code
 Code for obtaining the baseline result is available in this <a href= https://github.com/tasnim7ahmed/Depression-In-Tweets>repo</a>.
 # Citation
 If you find our work and dataset useful, please cite our [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0747563222003235).
 ```bash
-@article{KABIR2022107503,
-title = {DEPTWEET: A typology for social media texts to detect depression severities},
-journal = {Computers in Human Behavior},
+@article{kabir2022deptweet,
+title = {{DEPTWEET: A typology for social media texts to detect depression severities}},
+journal = {{Computers in Human Behavior}},
 pages = {107503},
 year = {2022},
 issn = {0747-5632},
-doi = {https://doi.org/10.1016/j.chb.2022.107503},
+doi = {10.1016/j.chb.2022.107503},
 url = {https://www.sciencedirect.com/science/article/pii/S0747563222003235},
 author = {Mohsinul Kabir and Tasnim Ahmed and Md. Bakhtiar Hasan and Md Tahmid Rahman Laskar and Tarun Kumar Joarder and Hasan Mahmud and Kamrul Hasan},
 keywords = {Social media, Mental health, Depression severity, Dataset},
